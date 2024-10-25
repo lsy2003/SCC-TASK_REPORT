@@ -14,7 +14,7 @@
 
 <img src=".\typora-user-images\image-20241010135906646.png" alt="image-20241010135906646" style="zoom: 33%;" />
 
-####安装Ubuntu映像
+#### 安装Ubuntu映像
 
 ​	直接去Ubuntu中文官网上下载（地址https://cn.ubuntu.com/download/desktop），此处下载的版本为Ubuntu 22.04 LTS，与题目要求的一致。
 
@@ -41,7 +41,7 @@ sudo apt install gcc
 
 <img src=".\typora-user-images\image-20241010160827543.png" alt="image-20241010160827543" style="zoom:67%;" />
 
-###3.使用C语言实现排序算法
+### 3.使用C语言实现排序算法
 
 ​	现要求分别使用冒泡排序，基础堆排序和斐波那契堆排序对数据规模至少为 $10^5$ 的数据进行排序，为了方便假定要排序的数据均为正整数，且大小不超过 $10^9$ （实数或其他数据范围类似，不影响算法实现）。
 
